@@ -36,7 +36,6 @@ nav {
     display: grid;
     grid-template-columns: repeat(2, 100px);
     align-items: center;
-    width: 10%;
 }
 
 .logo {
